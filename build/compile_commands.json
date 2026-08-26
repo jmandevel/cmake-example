@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/jmandevel/Desktop/dev/cmake-example/build",
+  "command": "/usr/lib64/ccache/clang++ -I/home/jmandevel/Desktop/dev/cmake-example/include -g -o CMakeFiles/my_exe.dir/main.cpp.o -c /home/jmandevel/Desktop/dev/cmake-example/main.cpp",
+  "file": "/home/jmandevel/Desktop/dev/cmake-example/main.cpp",
+  "output": "/home/jmandevel/Desktop/dev/cmake-example/build/CMakeFiles/my_exe.dir/main.cpp.o"
+}
+]
